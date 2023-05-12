@@ -1,0 +1,17 @@
+@media screen and (max-width: 1100px){
+
+    img.bgimg{
+        width: 800px;
+    }
+
+    img#bgtop{
+        top: -400px;
+        left: -400px;
+    }
+    
+    img#bgbottom{
+        bottom: -400px;
+        right: -400px;
+    }
+    
+}
